@@ -8,7 +8,7 @@ Gauthier</a></h1>
 
 - 🔭 I’m currently working in web agency at Insitaction <a href="https://phoenix.tech/griffyn/" target="blank"></a>
 
-- 🌱 I’m currently Working on Web App(React)
+- 🌱 I’m currently Working on Web App
 
 - 💬 Ask me about **Symfony && ReactJs**
 
